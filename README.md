@@ -1,4 +1,5 @@
 Thank you for following my talk!
+
 I will make sure to update this repository with more relevant information.
 
 Resources used for my research:
